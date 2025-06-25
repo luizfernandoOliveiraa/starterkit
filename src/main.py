@@ -14,3 +14,6 @@ if __name__ == '__main__':
     print(
         "Data processing complete. The combined data has been saved to 'data/output/combined_data.xlsx'."
     ) 
+
+
+print("Done")
